@@ -12,3 +12,4 @@ Error: Backend initialization required: please run "terraform init"
 
 Reason: Backend configuration block has changed
 ```
+### BUG fixed as of ver 0.18.1
